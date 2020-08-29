@@ -40,9 +40,9 @@ My website: [![Website](https://img.shields.io/website?label=alejandrods&url=htt
 ### 📕 Latest Projects Done and Deployed it
 - Generating cover letters with the GPT-2 model - Deployed on Google Cloud - [Try it here!](https://cover-letter-generator-gpt2-app-6q7gvhilqq-lz.a.run.app/) 🕹️
 - Named Entity Recognition in travel-related documents using RNN - Deployed on Google Cloud - [Try it here!](https://travel-entity-recognition-4ng3efvi4q-lz.a.run.app/) ✈️
-- Call Center to analyze automatically if a person can be infected with Coronavirus - AWS Connect + AWS Lex Bot - [Call me!](+61 2 8311 7630)
-- Service for generating text with the GPT-2 model - Deployed on Google Cloud - [Try it here!](https://text-generator-gpt2-app-6q7gvhilqq-lz.a.run.app/) 🕹️
-- Alexa Skill using Lambda Functions and Web Scraping - [Try it here!](https://www.amazon.es/Alejandro-Díaz-Proverbios-Diarios/dp/B07TGDSBDM) 🕹️
+- Call Center to analyze automatically if a person can be infected with Coronavirus - AWS Connect + AWS Lex Bot - **Call me! - +61 2 8311 7630** 📞
+- Service for generating text with the GPT-2 model - Deployed on Google Cloud - [Try it here!](https://text-generator-gpt2-app-6q7gvhilqq-lz.a.run.app/) 🖨️
+- Alexa Skill using Lambda Functions and Web Scraping - [Try it here!](https://www.amazon.es/Alejandro-Díaz-Proverbios-Diarios/dp/B07TGDSBDM) 🤖
 
 ---
 
