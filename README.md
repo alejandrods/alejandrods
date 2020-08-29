@@ -18,6 +18,8 @@ My website: [![Website](https://img.shields.io/website?label=alejandrods&url=htt
 [<img align="left" alt="alejandrods | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="alejandrods | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
+---
+
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/32141606/91632600-49bc7b00-ea25-11ea-8857-d9b40a35f85a.png"/>
 <img align="left" alt="Keras" width="62px" src="https://user-images.githubusercontent.com/32141606/91632734-2a721d80-ea26-11ea-9e84-557510df54d6.png"/>
@@ -42,6 +44,9 @@ My website: [![Website](https://img.shields.io/website?label=alejandrods&url=htt
 - Call Center to analyze automatically if a person can be infected with Coronavirus - AWS Connect + AWS Lex Bot - [Call me!](+61 2 8311 7630)
 - Service for generating text with the GPT-2 model - Deployed on Google Cloud - [Try it here!](https://text-generator-gpt2-app-6q7gvhilqq-lz.a.run.app/) 🕹️
 - Alexa Skill using Lambda Functions and Web Scraping - [Try it here!](https://www.amazon.es/Alejandro-Díaz-Proverbios-Diarios/dp/B07TGDSBDM) 🕹️
+
+---
+
 
 ### 📕 Latest Blog Posts
 
