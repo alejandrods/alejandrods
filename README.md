@@ -8,15 +8,10 @@
 - 🔭 I’m taking a course of [Redis](https://university.redislabs.com)
 - ✍ I’m looking to write more articles on [Medium][medium]
 - ⚡ Fun fact: I love to climb and travel
+- I'm currently living in Australia 🇦u
 
-86da055dd1b04f5e8490547b7106d0b5
-c9a4497f268741de8d2242da2dd5ce1e
-AQAbJHLlu17exTdEAZaXxcC_yhK_JvRVLu7GRQsEIb8ozaKyW34dnd3RBeU5luYwJ-_oedx9TMCUztqQLse73oE27os23tSRnUvLUaxBUwi4GVvUS-1wFx84bN-pLfDm9skJJbfZEkuD8gYO2X4b23NlZyfxkWibLISUk14UpTXwmHlWKoB49-SF9XVX_oTqMVqHp1QAMKd1UiaUuUnQaPc2aMrkYngi_yrjslNq1aZF0ZIREmA
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-[![Spotify](https://alejandrods.vercel.app/api/spotify)](https://open.spotify.com/user/alexsanjabspotify1992)
-[![Spotify](https://alejandrods.vercel.app/api/spotify)](https://open.spotify.com/user/alejandrods)
-
+[![Spotify](https://novatorem-red.vercel.app/api/spotify)](https://open.spotify.com/user/alexsanjabspotify1992?si=fk-dOmTxTjW_paN21akQiA)
 
 ### Connect with me:
 
