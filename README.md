@@ -24,18 +24,18 @@
 <br />
 
 ### Languages and Tools:
-<img alt="Python" width="26px" src="https://user-images.githubusercontent.com/32141606/91632600-49bc7b00-ea25-11ea-8857-d9b40a35f85a.png"/>
-<img alt="Keras" width="62px" src="https://user-images.githubusercontent.com/32141606/91632734-2a721d80-ea26-11ea-9e84-557510df54d6.png"/>
-<img alt="TensorFlow" width="50px" src="https://user-images.githubusercontent.com/32141606/91632806-a9ffec80-ea26-11ea-9bf6-97376c7925b6.png"/>
-<img alt="PyTorch" width="40px" src="https://user-images.githubusercontent.com/32141606/91632820-c3089d80-ea26-11ea-9ca9-72621c0de9fd.png"/>
-<img alt="GoogleCloud" width="40px" src="https://user-images.githubusercontent.com/32141606/91632835-f0554b80-ea26-11ea-83c2-d69774c71c33.jpg"/>
-<img alt="AWS" width="40px" src="https://user-images.githubusercontent.com/32141606/91632839-0236ee80-ea27-11ea-81aa-2b51864ed1ae.png"/>
-<img alt="SQL" width="26px" src="https://user-images.githubusercontent.com/32141606/91632897-707bb100-ea27-11ea-8b9e-24abeabc3dee.png"/>
-<img alt="Cpp" width="26px" src="https://user-images.githubusercontent.com/32141606/91632638-8b4d2600-ea25-11ea-82f6-5746c35c1b1e.png"/>
-<img alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/32141606/91632852-1975dc00-ea27-11ea-928e-c560f24722f7.png" />
-<img alt="javascript" width="26px" src="https://user-images.githubusercontent.com/32141606/91632712-fa2a7f00-ea25-11ea-84a9-dcc8daa71c6b.png"/>
-<img alt="matlab" width="26px" src="https://user-images.githubusercontent.com/32141606/91632663-b33c8980-ea25-11ea-8689-1074ab165be9.png"/>
-<img alt="git" width="26px" src="https://user-images.githubusercontent.com/32141606/91632917-999c4180-ea27-11ea-9603-50f3f69f07b4.png"/>
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/32141606/91632600-49bc7b00-ea25-11ea-8857-d9b40a35f85a.png"/>
+<img align="left" alt="Keras" width="62px" src="https://user-images.githubusercontent.com/32141606/91632734-2a721d80-ea26-11ea-9e84-557510df54d6.png"/>
+<img align="left" alt="TensorFlow" width="50px" src="https://user-images.githubusercontent.com/32141606/91632806-a9ffec80-ea26-11ea-9bf6-97376c7925b6.png"/>
+<img align="left" alt="PyTorch" width="40px" src="https://user-images.githubusercontent.com/32141606/91632820-c3089d80-ea26-11ea-9ca9-72621c0de9fd.png"/>
+<img align="left" alt="GoogleCloud" width="40px" src="https://user-images.githubusercontent.com/32141606/91632835-f0554b80-ea26-11ea-83c2-d69774c71c33.jpg"/>
+<img align="left" alt="AWS" width="40px" src="https://user-images.githubusercontent.com/32141606/91632839-0236ee80-ea27-11ea-81aa-2b51864ed1ae.png"/>
+<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/32141606/91632897-707bb100-ea27-11ea-8b9e-24abeabc3dee.png"/>
+<img align="left" alt="Cpp" width="26px" src="https://user-images.githubusercontent.com/32141606/91632638-8b4d2600-ea25-11ea-82f6-5746c35c1b1e.png"/>
+<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/32141606/91632852-1975dc00-ea27-11ea-928e-c560f24722f7.png" />
+<img align="left" alt="javascript" width="26px" src="https://user-images.githubusercontent.com/32141606/91632712-fa2a7f00-ea25-11ea-84a9-dcc8daa71c6b.png"/>
+<img align="left" alt="matlab" width="26px" src="https://user-images.githubusercontent.com/32141606/91632663-b33c8980-ea25-11ea-8689-1074ab165be9.png"/>
+<img align="left" alt="git" width="26px" src="https://user-images.githubusercontent.com/32141606/91632917-999c4180-ea27-11ea-9603-50f3f69f07b4.png"/>
 <br />
 <br />
 
