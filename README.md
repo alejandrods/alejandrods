@@ -26,8 +26,8 @@
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/32141606/91632600-49bc7b00-ea25-11ea-8857-d9b40a35f85a.png"/>
 <img align="left" alt="Keras" width="62px" src="https://user-images.githubusercontent.com/32141606/91632734-2a721d80-ea26-11ea-9e84-557510df54d6.png"/>
-<img align="left" alt="TensorFlow" width="50px" src="https://user-images.githubusercontent.com/32141606/91632806-a9ffec80-ea26-11ea-9bf6-97376c7925b6.png"/>
-<img align="left" alt="PyTorch" width="40px" src="https://user-images.githubusercontent.com/32141606/91632820-c3089d80-ea26-11ea-9ca9-72621c0de9fd.png"/>
+<img align="left" alt="TensorFlow" width="44px" src="https://user-images.githubusercontent.com/32141606/91632806-a9ffec80-ea26-11ea-9bf6-97376c7925b6.png"/>
+<img align="left" alt="PyTorch" width="45px" src="https://user-images.githubusercontent.com/32141606/91633307-89399600-ea2a-11ea-8ba4-ae08348eded0.png"/>
 <img align="left" alt="GoogleCloud" width="40px" src="https://user-images.githubusercontent.com/32141606/91632835-f0554b80-ea26-11ea-83c2-d69774c71c33.jpg"/>
 <img align="left" alt="AWS" width="40px" src="https://user-images.githubusercontent.com/32141606/91632839-0236ee80-ea27-11ea-81aa-2b51864ed1ae.png"/>
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/32141606/91632897-707bb100-ea27-11ea-8b9e-24abeabc3dee.png"/>
@@ -38,8 +38,6 @@
 <img align="left" alt="git" width="26px" src="https://user-images.githubusercontent.com/32141606/91632917-999c4180-ea27-11ea-9603-50f3f69f07b4.png"/>
 <br />
 <br />
-
----
 
 ---
 
@@ -62,25 +60,7 @@
 - Service for generating text with the GPT-2 model - Deployed on Google Cloud - [Try it here!](https://text-generator-gpt2-app-6q7gvhilqq-lz.a.run.app/) 🕹️
 - Alexa Skill using Lambda Functions and Web Scraping - [Try it here!](https://www.amazon.es/Alejandro-Díaz-Proverbios-Diarios/dp/B07TGDSBDM) 🕹️
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alejandrods&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 [website]: https://alejandrods.github.io
 [linkedin]: https://www.linkedin.com/in/alejandro-diaz-santos-8aab812a/
