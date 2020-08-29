@@ -17,8 +17,7 @@ My website: [![Website](https://img.shields.io/website?label=alejandrods&url=htt
 [<img align="left" alt="https://alejandrods.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="alejandrods | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="alejandrods | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
----
+<br><br>
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/32141606/91632600-49bc7b00-ea25-11ea-8857-d9b40a35f85a.png"/>
