@@ -24,24 +24,18 @@
 <br />
 
 ### Languages and Tools:
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
+<img alt="Python" width="26px" src="https://user-images.githubusercontent.com/32141606/91632600-49bc7b00-ea25-11ea-8857-d9b40a35f85a.png"/>
+<img alt="Keras" width="62px" src="https://user-images.githubusercontent.com/32141606/91632734-2a721d80-ea26-11ea-9e84-557510df54d6.png"/>
+<img alt="TensorFlow" width="50px" src="https://user-images.githubusercontent.com/32141606/91632806-a9ffec80-ea26-11ea-9bf6-97376c7925b6.png"/>
+<img alt="PyTorch" width="40px" src="https://user-images.githubusercontent.com/32141606/91632820-c3089d80-ea26-11ea-9ca9-72621c0de9fd.png"/>
+<img alt="GoogleCloud" width="40px" src="https://user-images.githubusercontent.com/32141606/91632835-f0554b80-ea26-11ea-83c2-d69774c71c33.jpg"/>
+<img alt="AWS" width="40px" src="https://user-images.githubusercontent.com/32141606/91632839-0236ee80-ea27-11ea-81aa-2b51864ed1ae.png"/>
+<img alt="SQL" width="26px" src="https://user-images.githubusercontent.com/32141606/91632897-707bb100-ea27-11ea-8b9e-24abeabc3dee.png"/>
+<img alt="Cpp" width="26px" src="https://user-images.githubusercontent.com/32141606/91632638-8b4d2600-ea25-11ea-82f6-5746c35c1b1e.png"/>
+<img alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/32141606/91632852-1975dc00-ea27-11ea-928e-c560f24722f7.png" />
+<img alt="javascript" width="26px" src="https://user-images.githubusercontent.com/32141606/91632712-fa2a7f00-ea25-11ea-84a9-dcc8daa71c6b.png"/>
+<img alt="matlab" width="26px" src="https://user-images.githubusercontent.com/32141606/91632663-b33c8980-ea25-11ea-8689-1074ab165be9.png"/>
+<img alt="git" width="26px" src="https://user-images.githubusercontent.com/32141606/91632917-999c4180-ea27-11ea-9603-50f3f69f07b4.png"/>
 <br />
 <br />
 
@@ -55,9 +49,14 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
-
 ---
+
+### 📕 Latest Projects Done and Deployed it
+- Generating cover letters with the GPT-2 model - Deployed on Google Cloud - [Try it here!](https://cover-letter-generator-gpt2-app-6q7gvhilqq-lz.a.run.app/) 🕹️
+- Named Entity Recognition in travel-related documents using RNN - Deployed on Google Cloud - [Try it here!](https://travel-entity-recognition-4ng3efvi4q-lz.a.run.app/) ✈️
+- Call Center to analyze automatically if a person can be infected with Coronavirus - AWS Connect + AWS Lex Bot - [Call me!](+61 2 8311 7630)
+- Service for generating text with the GPT-2 model - Deployed on Google Cloud - [Try it here!](https://text-generator-gpt2-app-6q7gvhilqq-lz.a.run.app/) 🕹️
+- Alexa Skill using Lambda Functions and Web Scraping - [Try it here!](https://www.amazon.es/Alejandro-Díaz-Proverbios-Diarios/dp/B07TGDSBDM) 🕹️
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
