@@ -46,7 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Measuring social distance in the time of Covid-19](https://towardsdatascience.com/measuring-social-distance-in-the-time-of-covid-19-da0503717a62?source=rss-3b43171da13b------2)
+- [Noise: It’s not always annoying](https://towardsdatascience.com/noise-its-not-always-annoying-1bd5f0f240f?source=rss-3b43171da13b------2)
+- [Style Transfer Pytorch](https://medium.com/analytics-vidhya/style-transfer-pytorch-84cf2e9ba86d?source=rss-3b43171da13b------2)
+- [Neural Network from Scratch](https://medium.com/analytics-vidhya/neural-network-from-scratch-e2c5abc9febe?source=rss-3b43171da13b------2)
+- [Numba: “weapon of mass optimization”](https://towardsdatascience.com/numba-weapon-of-mass-optimization-43cdeb76c7da?source=rss-3b43171da13b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
