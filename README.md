@@ -50,7 +50,7 @@ My website: [![Website](https://img.shields.io/website?label=alejandrods&url=htt
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A little bit of strange/interesting Datasets for Machine Learning](https://medium.com/@alejandrods/a-little-bit-of-strange-interesting-datasets-for-machine-learning-14ebcf4eefba?source=rss-3b43171da13b------2)
+- [A little bit of strange/interesting Datasets for Machine Learning](https://medium.com/analytics-vidhya/a-little-bit-of-strange-interesting-datasets-for-machine-learning-14ebcf4eefba?source=rss-3b43171da13b------2)
 - [Measuring social distance in the time of Covid-19](https://towardsdatascience.com/measuring-social-distance-in-the-time-of-covid-19-da0503717a62?source=rss-3b43171da13b------2)
 - [Noise: It’s not always annoying](https://towardsdatascience.com/noise-its-not-always-annoying-1bd5f0f240f?source=rss-3b43171da13b------2)
 - [Style Transfer Pytorch](https://medium.com/analytics-vidhya/style-transfer-pytorch-84cf2e9ba86d?source=rss-3b43171da13b------2)
