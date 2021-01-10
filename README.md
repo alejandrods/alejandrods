@@ -10,7 +10,7 @@ My website: [![Website](https://img.shields.io/website?label=alejandrods&url=htt
 - ⚡ Fun fact: I love to climb and travel and I'm currently living in Australia :sunny:
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-red.vercel.app/api/spotify)](https://open.spotify.com/user/alexsanjabspotify1992?si=fk-dOmTxTjW_paN21akQiA)
+<!--- [![Spotify](https://novatorem-red.vercel.app/api/spotify)](https://open.spotify.com/user/alexsanjabspotify1992?si=fk-dOmTxTjW_paN21akQiA) -->
 
 ### Connect with me:
 
