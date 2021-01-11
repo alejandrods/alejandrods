@@ -2,7 +2,7 @@
 
 My website: [![Website](https://img.shields.io/website?label=alejandrods&url=https%3A%2F%2Falejandrods.github.io%2F)](https://alejandrods.github.io)
 
-### I'm a Climber, Aeronautical Engineer, Teacher and Machine Learning Engineer!
+### I'm a Machine Learning Engineer, Aeronautical Engineer, Teacher and Climber!
 
 - 📚 I’m studying a Master of Data Science in the University of Sydney
 - 🔭 I’m taking a course of [Redis](https://university.redislabs.com)
