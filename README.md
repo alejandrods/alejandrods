@@ -38,7 +38,9 @@ My website: [![Website](https://img.shields.io/website?label=alejandrods&url=htt
 
 ---
 
-### 📕 Latest Projects Done and Deployed it
+### 📕 Latest Projects
+- Analysis of robust classification algorithms for overcoming class-dependant labelling noise: Forward, Importance Re-weighting and T-revision - [Code!](https://github.com/alejandrods/Analysis-of-classifiers-robust-to-noisy-labels) 💻
+- Analysis of the robustness of non-negative matrix factorization (NMF) techniques: L2-norm, L1-norm, and L2,1-norm - [Code!](https://github.com/alejandrods/Analysis-of-the-robustness-of-NMF-algorithms) 💻
 - Generating cover letters with the GPT-2 model - Deployed on Google Cloud - [Try it here!](https://cover-letter-generator-gpt2-app-6q7gvhilqq-lz.a.run.app/) 🕹️
 - Named Entity Recognition in travel-related documents using RNN - Deployed on Google Cloud - [Try it here!](https://travel-entity-recognition-4ng3efvi4q-lz.a.run.app/) ✈️
 - Call Center to analyze automatically if a person can be infected with Coronavirus - AWS Connect + AWS Lex Bot - **Call me! - +61 2 8311 7630** 📞
