@@ -4,7 +4,7 @@ My website: [![Website](https://img.shields.io/website?label=alejandrods&url=htt
 
 ### I'm a Machine Learning Engineer, Aeronautical Engineer, Teacher and Climber!
 
-- 📚 Data Scientist holding a Master's degree by the University of Sydney.
+- 📚 Machine Learning Engineer holding a Master's degree by the University of Sydney.
 - 🔭 I’m taking a course of [Redis](https://university.redislabs.com)
 - ✍ I’m looking to write more articles on [Medium][medium]
 - ⚡ Fun fact: I love to climb and travel and I'm currently living in Australia :sunny:
